@@ -1,0 +1,150 @@
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\appsettings.json
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\CrudRazor.exe
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\CrudRazor.deps.json
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\CrudRazor.runtimeconfig.json
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\CrudRazor.runtimeconfig.dev.json
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\CrudRazor.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\ref\CrudRazor.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\CrudRazor.pdb
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\CrudRazor.Views.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\CrudRazor.Views.pdb
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.csprojAssemblyReference.cache
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.AssemblyInfoInputs.cache
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.AssemblyInfo.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.csproj.CoreCompileInputs.cache
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.RazorAssemblyInfo.cache
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.RazorAssemblyInfo.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\staticwebassets\CrudRazor.StaticWebAssets.Manifest.cache
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\staticwebassets\CrudRazor.StaticWebAssets.xml
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\scopedcss\bundle\CrudRazor.styles.css
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.TagHelpers.input.cache
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.TagHelpers.output.cache
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.RazorCoreGenerate.cache
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.RazorTargetAssemblyInfo.cache
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.RazorTargetAssemblyInfo.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.Views.pdb
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\ref\CrudRazor.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.pdb
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.genruntimeconfig.cache
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.csproj.CopyComplete
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\Humanizer.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\Razor\Pages\ListaCursos\Index.cshtml.g.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\Razor\Pages\ListaCursos\Create.cshtml.g.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core\CrudRazor\CrudRazor\obj\Debug\net5.0\Razor\Pages\ListaCursos\Edit.cshtml.g.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\appsettings.json
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\CrudRazor.exe
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\CrudRazor.deps.json
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\CrudRazor.runtimeconfig.json
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\CrudRazor.runtimeconfig.dev.json
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\CrudRazor.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\ref\CrudRazor.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\CrudRazor.pdb
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\CrudRazor.Views.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\CrudRazor.Views.pdb
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\Humanizer.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.csprojAssemblyReference.cache
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.AssemblyInfoInputs.cache
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.AssemblyInfo.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.csproj.CoreCompileInputs.cache
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.RazorAssemblyInfo.cache
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.RazorAssemblyInfo.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\staticwebassets\CrudRazor.StaticWebAssets.Manifest.cache
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\staticwebassets\CrudRazor.StaticWebAssets.xml
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\scopedcss\bundle\CrudRazor.styles.css
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.TagHelpers.input.cache
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.TagHelpers.output.cache
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.RazorCoreGenerate.cache
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\Razor\Pages\ListaCursos\Create.cshtml.g.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\Razor\Pages\ListaCursos\Edit.cshtml.g.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\Razor\Pages\ListaCursos\Index.cshtml.g.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.RazorTargetAssemblyInfo.cache
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.RazorTargetAssemblyInfo.cs
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.Views.pdb
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.csproj.CopyComplete
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\ref\CrudRazor.dll
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.pdb
+C:\Users\SELENE\Desktop\RepoDigital\ASP.NET Core MVC\CrudRazor\CrudRazor\obj\Debug\net5.0\CrudRazor.genruntimeconfig.cache

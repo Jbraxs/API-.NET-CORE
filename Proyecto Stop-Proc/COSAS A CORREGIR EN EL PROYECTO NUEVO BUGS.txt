@@ -1,0 +1,41 @@
+1H-Poner en el insert de usuarios el rol- Añadida - Listo
+6H-Refactorizar todo el codigo - Añadida
+4H-Mejorar las validaciones y añadir las que faltan de los otros modelos - Añadida
+4H-Hacer el put de user(Importante ver como devolver el DTO sin id) - Añadida - Listo
+2H-Corregir el delete user que no tenga conflictos con el put - Añadida
+2H-Hacer el getbycategoria con parametros - Añadida
+2H-hacer el getByTasks con parametros - Añadida
+2H-hacer el getbyCategotasks con parametros - Añadida
+2H-Encriptar password - Añadida 
+1H-Eliminar try catch InsertCategory dejarlo uno - Añadida
+10H - Añdir la suma de las tareas en categotasks - Añadida
+10H - Averiguar como hacer un rollback en el caso de que no se inserte correctamente en la tabla de categotask (Transacciones) - Añadida
+24H - Si yo elimino una tarea, la borro tambien de categotasks?. Es que si lo hago asi, pierdo el tiempo acumulado y si borro la categoria, es comprensible que se borre las tareas que tenga esa categoria pero el tiempo acumulado, que  hago con el. - Añadida
+
+// cosas nuevas a hacer 
+Configuracion inicial, dormir, trabajar, acumulacion de horas, restructurar user y profile
+horario de descansoInit, descansoFin y trabajo. 
+Mirar y buscar rangos horarios,sql y codigo. 
+
+// Hacer nuevo TO DO
+Además separar user a profile
+Cuando llegue el dia y la hora que llegue a activo. 
+status y id a tasks
+check  libro de notas 
+
+
+
+// Añadimos  front en angular 
+hacer el logout dentro del profile
+---------------------------------------
+Preguntas:
+
+Cosas a mirar: 
+leer
+https://medium.com/young-coder/a-weekend-with-blazor-running-c-in-the-web-browser-6b9439704418
+
+https://www.blinkingcaret.com/2018/05/30/refresh-tokens-in-asp-net-core-web-api/
+..
+
+tuto buenmo 
+https://www.youtube.com/watch?v=lxYB79ANJM8&feature=emb_logo&ab_channel=Fazt

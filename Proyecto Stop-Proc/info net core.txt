@@ -1,0 +1,25 @@
+Capas
+
+Persistencia o infraestructura (capa de acceder a los datos, base de datos, fuente externa, cache)
+
+capa de negocio (que es lo que hace mi aplicacion)
+
+propiedades de navegacion, lo entiende entity framework para poder navegar entre tablas. 
+
+Se marca como virtual, nombre de la clase que queremos navegar y si queremos una collection o Ienumerable
+EJ: 
+
+entidad en el modelo que utilizo al que voy a navegar 
+de aca pa alla
+NOmbre de la clase EmoPicture
+public virtual ObservableCollection<EmoFace> EmoFace{get; set;}
+
+en la otra
+nombre de la clase EmoFace
+public virtual <EmoPicture> Picture
+
+Atajos de teclado 
+ctr constructor
+prop propiedades del modelo
+ctr r i, en una clase genera una interface con los metodos que tenga
+/// tres veces / y genera sumary

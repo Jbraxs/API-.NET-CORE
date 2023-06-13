@@ -1,0 +1,58 @@
+﻿@page
+@model CrudRazor.Pages.ListaCursos.IndexModel
+@{
+    ViewData["Title"] = "aaaaaa";
+}
+
+<br />
+<div class="container row">
+    <div class="col-6">
+        <h2 class="text-info">Lista de Cursos</h2>
+    </div>
+    <div class="col-6 text-right">
+        <a asp-page="Create" class="btn btn-primary">Crear Nuevo Curso</a>
+    </div>
+</div>
+
+@if (Model.Mensaje != null)
+{
+    <div class="alert alert-info alert-dismissible" role="alert">
+        <button type="button" class="close" data-dismiss="alert" arial-label="close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+        @Model.Mensaje
+    </div>
+}
+<form method="post">
+    @if (Model.Cursos.Count() > 0)
+    {
+        <br />
+        <br />
+        <table class="table table-striped border">
+            <tr class="table-secondary">
+                <th> @Html.DisplayFor(m => m.Cursos.FirstOrDefault().NombreCurso) </th>
+                <th> @Html.DisplayFor(m => m.Cursos.FirstOrDefault().Cantidad) </th>
+                <th> @Html.DisplayFor(m => m.Cursos.FirstOrDefault().Precio) </th>
+                <th>Acción</th>
+            </tr>
+
+            @foreach (var cursos in Model.Cursos)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(m => cursos.NombreCurso)</td>
+                    <td>@Html.DisplayFor(m => cursos.Cantidad)</td>
+                    <td>@Html.DisplayFor(m => cursos.Precio)</td>
+                    <td>
+                        <button asp-page-handler="Delete" asp-route-Id="@cursos.Id" onclick="return confirm('¿Esta Seguro de querer borrarlo?')" class="btn btn-danger btn-sm">Borrar</button>
+                        <a asp-route-id="@cursos.Id" asp-page="Edit" class="btn btn-success btn-sm">Editar</a>
+                    </td>
+                </tr>
+            }
+        </table>
+    }
+    else
+    {
+        <p>No hay cursos disponibles</p>
+    }
+
+</form>
